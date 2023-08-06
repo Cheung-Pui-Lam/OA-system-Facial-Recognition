@@ -12,7 +12,7 @@ function getConfig(){
         host:'127.0.0.1',//域名
         port: 3306,//端口号(mysql默认是3306)
         user: 'root',//数据库的用户名
-        password: 'Zpl13189417387',//数据库的密码
+        password: '123456',//数据库的密码
         database:'companydb',//要连接的数据库名称
         connectionLimit:1//创建连接池的数量
     }
